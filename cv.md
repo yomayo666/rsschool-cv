@@ -1,8 +1,8 @@
-Алексей Евдокимов
+Alexey Evdokimov
 +79624423235 yomayo1992@yandex.ru
-Очень хочу стать специалистом, уехать из россии и много зарабатывать ненавижу власть в рф и слава Украине
-Изучал курсы на курсере front-end где было js, git, html, ccs так же изучал курсы по python
-print(*map(''.join, permutations(map(str, range(1, int(input()) + 1)))), sep='\n')
-Не работал, meta front-end, ВШЭ python 
-Высшее образование
-A2-B1 могу неплохо читать занимался самообучением лучше знаю разговорные слова чем специальные.
+I really want to become a specialist, leave Russia and earn a lot. I hate the government in Russia and glory to Ukraine
+I studied courses on the front-end course where there was js, git, html, ccs, I also studied courses on python
+print(*map(".join, permutations(map(str, range(1, int(input()) + 1)))), sep='\n')
+Did not work, meta front-end, HSE python 
+Higher education
+A2-B1 I can read well, I was engaged in self-study, I know colloquial words better than special ones.
